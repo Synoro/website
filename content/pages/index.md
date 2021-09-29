@@ -30,7 +30,7 @@ sections:
       - image: /images/k8s.png
         image_alt: Kubernetes
       - image: /images/vsphere.png
-        image_alt: Logo 4
+        image_alt: vSphere
       - image: images/logo-5.svg
         image_alt: Logo 5
   - type: grid_section
