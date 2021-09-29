@@ -7,7 +7,7 @@ thumb_image_alt: Kubernetes as a Service
 sections:
   - type: image_section
     image: /images/cloudmeetup.png
-    image_alt: Chaos Engineering on Kubernetes
+    image_alt: Kubernetes as a Service
     width: wide
   - type: text_section
     content: >
