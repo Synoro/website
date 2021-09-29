@@ -41,14 +41,10 @@ sections:
     grid_items:
       - title: Development
         image: images/service-1.svg
-        content: |-
-          - Research and insight
-          - Business innovation and transformation
-          - Brand and strategy
-          - Brand portfolio strategy
-          - Design strategy
-          - Digital and experience strategy
-          - Communication strategy
+        content: |
+          *   Golang and Python operations improvements
+          *   Application modernization
+          *   Infrastructure as Code
       - title: Trainings
         image: images/service-2.svg
         content: |-
