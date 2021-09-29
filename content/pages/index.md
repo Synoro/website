@@ -64,8 +64,8 @@ sections:
     section_id: cta
     title: Let’s Work Together!
     content: >
-      Say hello at [contact@synoro.ch](mailto:contact@synoro.ch) or tell us more
-      about your project by getting started below.
+      Say hello at <contact@synoro.ch> or tell more about your project by
+      getting started below.
     actions:
       - label: Let's start
         url: /contact
