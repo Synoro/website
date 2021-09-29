@@ -19,7 +19,7 @@ sections:
     width: wide
 seo:
   title: Chaos Engineering on Kubernetes
-  description: Kubernetes Operator for Drones
+  description: Chaos Engineering on Kubernetes
   extra:
     - name: 'og:type'
       value: website
