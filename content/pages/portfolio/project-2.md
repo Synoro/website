@@ -12,7 +12,7 @@ sections:
   - type: text_section
     content: >-
       The purpose is to create an easy way of explaining Kubernetes operators. (Hence the drones)\n\n[Episode 02 -
-      GitHub](https://github.com/danacr/Kubernetes-The-Fun-Way/blob/master/02-portable-kubernetes-cluster/README.md)\n
+      GitHub](https://github.com/danacr/Kubernetes-The-Fun-Way/tree/master/02-kubernetes-operator-for-drones)\n
   - type: image_section
     image: /images/drones.gif
     image_alt: Google Tech Talk
