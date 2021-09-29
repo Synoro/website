@@ -25,7 +25,7 @@ sections:
     grid_items:
       - image: /images/Go-Logo_Blue.png
         image_alt: Go
-      - image: images/logo-2.svg
+      - image: /images/python.jpg
         image_alt: Logo 2
       - image: images/logo-3.svg
         image_alt: Logo 3
