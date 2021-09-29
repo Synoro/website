@@ -51,7 +51,7 @@ sections:
         content: |
           *   DevOps Workshops
           *   Kubernetes hands-on
-      - title: Ops
+      - title: Consultancy
         image: images/service-3.svg
         content: |-
           - Digital product design
