@@ -1,7 +1,7 @@
 ---
 title: Kubernetes as a Service
 subtitle: Virtual Rejekts 2020
-date: '2020-03-05'
+date: '2020-04-01'
 thumb_image: /images/chaosarchitecture.png
 thumb_image_alt: Kubernetes as a Service
 sections:
