@@ -6,7 +6,7 @@ thumb_image: /images/rancher2.png
 thumb_image_alt: Design Is One preview
 sections:
   - type: image_section
-    image: /images/rancher.png
+    image: 
     image_alt: Rancher Master Class
     caption: Rancher Master Class
     width: wide
@@ -28,7 +28,7 @@ sections:
       [Episode 01 -
       GitHub](https://github.com/danacr/Kubernetes-The-Fun-Way/blob/master/01-portable-kubernetes-cluster/)
   - type: image_section
-    image: /images/cluster.gif
+    image: /images/cluster.gif/images/rancher.png
     image_alt: Cluster
     width: wide
 seo:
