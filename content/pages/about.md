@@ -29,7 +29,7 @@ sections:
             style: icon
             icon: linkedin
             new_window: true
-          - label: lorem-ipsum
+          - label: github
             url: '#'
             style: link
             icon: dribbble
