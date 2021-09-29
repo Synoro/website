@@ -5,7 +5,7 @@ sections:
   - type: content_section
     content: |
       Synoro is a DevSecOps agency
-    image: images/about.jpg
+    image: /images/zurich.jpg
     image_alt: Our team in the meeting room
   - type: grid_section
     section_id: team
