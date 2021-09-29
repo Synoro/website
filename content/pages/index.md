@@ -48,14 +48,9 @@ sections:
           *   Infrastructure as Code
       - title: Trainings
         image: images/service-2.svg
-        content: |-
-          - Brand development
-          - Naming
-          - Brand identity
-          - Design systems
-          - Concept development
-          - Brand implementation and management
-          - Typography
+        content: |
+          *   DevOps Workshops
+          *   Kubernetes hands-on
       - title: Ops
         image: images/service-3.svg
         content: |-
