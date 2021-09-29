@@ -25,7 +25,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Design Is One
+      value: Kubernetes The Fun Way
       keyName: property
 layout: project
 ---
