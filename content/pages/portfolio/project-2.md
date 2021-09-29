@@ -7,7 +7,7 @@ thumb_image_alt: Kubernetes Operator for Drones
 sections:
   - type: image_section
     image: images/drones.gif
-    image_alt: Kubernetes Operator for Drones using
+    image_alt: Kubernetes Operator for Drones
     width: wide
   - type: text_section
     content: >-
