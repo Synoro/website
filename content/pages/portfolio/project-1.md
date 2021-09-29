@@ -6,7 +6,7 @@ thumb_image: /images/rancher2.png
 thumb_image_alt: Design Is One preview
 sections:
   - type: image_section
-    image: 
+    image: /images/cluster.gif
     image_alt: Rancher Master Class
     caption: Rancher Master Class
     width: wide
