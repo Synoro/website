@@ -24,7 +24,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Aimi
+      value: Kubernetes Operator for Drones
       keyName: property
     - name: 'og:description'
       value: This is the sample project description
