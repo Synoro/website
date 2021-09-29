@@ -6,8 +6,8 @@ sections:
     section_id: hero
     title: We do DevSecOps the right way
     content: >
-      Are you experiencing fear of missing out after hearing all the latest
-      buzzwords:  AIOps, BizDevOps, CloudOps, DevOps, ITOps, NoOps? [Reach
+      Are you experiencing fear of missing out? Do all the latest buzzwords
+      scare you?  AIOps, BizDevOps, CloudOps, DevOps, ITOps, NoOps? [Reach
       out](/contact/) and let's define what's right for your business.
   - type: portfolio_section
     section_id: latest-projects
