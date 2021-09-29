@@ -2,7 +2,7 @@
 title: Kubernetes The Fun Way
 subtitle: Rancher Master Class
 date: '2020-03-10'
-thumb_image: /images/rancher-5fe7ec3e.png
+thumb_image: /images/rancher2.png
 thumb_image_alt: Design Is One preview
 sections:
   - type: image_section
