@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: We do DevSecOps the right way
+    title: DevSecOps the right way
     content: >
       Are you experiencing fear of missing out? Do all the latest buzzwords
       scare you?
