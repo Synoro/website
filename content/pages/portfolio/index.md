@@ -1,5 +1,5 @@
 ---
-title: Our Work
+title: The Work
 subtitle: Some of our projects
 layout_style: tiles
 seo:
