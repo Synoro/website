@@ -29,7 +29,7 @@ sections:
         image_alt: Python
       - image: /images/k8s.png
         image_alt: Kubernetes
-      - image: images/logo-4.svg
+      - image: /images/vsphere.png
         image_alt: Logo 4
       - image: images/logo-5.svg
         image_alt: Logo 5
