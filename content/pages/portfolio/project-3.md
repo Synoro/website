@@ -22,7 +22,7 @@ sections:
     image_alt: Kubernetes as a Service
     width: wide
 seo:
-  title: Chaos Engineering on Kubernetes
+  title: Kubernetes as a Service
   description: Google Cloud Meetup Zürich
   extra:
     - name: 'og:type'
