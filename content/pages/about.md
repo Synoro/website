@@ -30,7 +30,7 @@ sections:
             icon: linkedin
             new_window: true
           - label: github
-            url: '#'
+            url: 'https://github.com/danacr'
             style: link
             icon: dribbble
             new_window: false
