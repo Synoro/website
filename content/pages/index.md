@@ -68,7 +68,7 @@ sections:
       getting started below.
     actions:
       - label: Let's start
-        url: /contact
+        url: 'mailto:contact@synoro.ch'
         style: button
     image: images/cta.svg
     image_alt: Illustration
