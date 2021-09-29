@@ -16,7 +16,7 @@ sections:
 
 
       [Episode 02 -
-      GitHub](https://github.com/danacr/Kubernetes-The-Fun-Way/tree/master/02-kubernetes-operator-for-drones)
+      GitHub](https://github.com/danacr/Kubernetes-The-Fun-Way/tree/master/04-kubernetes-as-a-service)
   - type: image_section
     image: /images/chaos.gif
     image_alt: Kubernetes as a Service
