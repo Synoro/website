@@ -40,8 +40,6 @@ seo:
       value: Design Is One
     - name: 'twitter:description'
       value: This is the sample project description
-    - name: 'twitter:image'
-      value: images/work-poster-1.jpg
       relativeUrl: true
 layout: project
 ---
