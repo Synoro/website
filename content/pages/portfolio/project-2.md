@@ -21,7 +21,7 @@ sections:
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
       arcu accumsan lorem amet accumsan.
   - type: image_section
-    image: images/work-branding-2.jpg
+    image: images/googletech.jpg
     image_alt: Aimi 2
     width: wide
 seo:
