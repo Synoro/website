@@ -26,16 +26,6 @@ sections:
     width: wide
   - type: text_section
     content: >-
-      Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-      massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-      placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus.
-      Aliquam lobortis faucibus blandit ac phasellus.
-  - type: image_section
-    image: images/work-branding-3.jpg
-    image_alt: Aimi 3
-    width: wide
-  - type: text_section
-    content: >-
       Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
       accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
       Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
