@@ -12,7 +12,8 @@ sections:
   - type: text_section
     content: >-
       The purpose is to test the resiliance of applications running in ephemeral
-      environments, such as GKE on preemptible instances.
+      environments, such as GKE on preemptible instances.\n\n[Episode 02 -
+      GitHub](https://github.com/danacr/Kubernetes-The-Fun-Way/tree/master/02-kubernetes-operator-for-drones)\n
   - type: image_section
     image: /images/chaos.gif
     image_alt: Chaos Engineering on Kubernetes
