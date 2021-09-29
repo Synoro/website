@@ -34,8 +34,6 @@ sections:
       - image: /images/google.png
         image_alt: gcp
       - image_alt: lorem-ipsum
-        content: |
-          *
         actions: []
   - type: grid_section
     section_id: services
