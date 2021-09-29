@@ -29,7 +29,7 @@ sections:
         image_alt: Python
       - image: /images/k8s.png
         image_alt: Kubernetes
-      - image: /images/vsphere.png
+      - image: /images/aws.png
         image_alt: vSphere
       - image: /images/google.png
         image_alt: gcp
