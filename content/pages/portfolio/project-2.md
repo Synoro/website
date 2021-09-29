@@ -57,18 +57,5 @@ seo:
     - name: 'og:description'
       value: This is the sample project description
       keyName: property
-    - name: 'og:image'
-      value: images/work-branding-1.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Aimi
-    - name: 'twitter:description'
-      value: This is the sample project description
-    - name: 'twitter:image'
-      value: images/work-branding-1.jpg
-      relativeUrl: true
 layout: project
 ---
