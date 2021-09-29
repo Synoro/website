@@ -27,7 +27,7 @@ seo:
       value: Kubernetes Operator for Drones
       keyName: property
     - name: 'og:description'
-      value: Kubernetes Operator for Drones
+      value: Google Tech Talk
       keyName: property
 layout: project
 ---
