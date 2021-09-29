@@ -3,7 +3,7 @@ title: Kubernetes The Fun Way
 subtitle: Rancher Master Class
 date: '2020-03-10'
 thumb_image: images/work-branding-1-thumb.jpg
-thumb_image_alt: Aimi preview
+thumb_image_alt: Kubernetes The Fun Way
 sections:
   - type: image_section
     image: images/work-branding-1.jpg
