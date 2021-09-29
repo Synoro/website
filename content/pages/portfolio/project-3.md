@@ -3,7 +3,7 @@ title: Kubernetes as a Service
 subtitle: Google Cloud Meetup Zürich
 date: '2020-03-05'
 thumb_image: /images/googletech.png
-thumb_image_alt: Chaos Engineering on Kubernetes
+thumb_image_alt: Kubernetes as a Service
 sections:
   - type: image_section
     image: /images/cloudmeetup.png
