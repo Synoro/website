@@ -10,10 +10,13 @@ sections:
     image_alt: Kubernetes Operator for Drones
     width: wide
   - type: text_section
-    content: >-
-      The purpose is to test the resiliance of applications running in ephemeral
-      environments, such as GKE on preemptible instances.\n\n[Episode 02 -
-      GitHub](https://github.com/danacr/Kubernetes-The-Fun-Way/tree/master/03-chaos-engineering-on-kubernetes)\n
+    content: >
+      The purpose is to test the resilience of applications running in ephemeral
+      environments, such as GKE on preemptible instances.
+
+
+      [Episode 02 -
+      GitHub](https://github.com/danacr/Kubernetes-The-Fun-Way/tree/master/02-kubernetes-operator-for-drones)
   - type: image_section
     image: /images/chaos.gif
     image_alt: Chaos Engineering on Kubernetes
