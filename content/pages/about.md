@@ -4,7 +4,7 @@ hide_title: false
 sections:
   - type: content_section
     content: |
-      Synoro is a DevSecOps agency
+      Synoro is a DevSecOps agency based in Zurich, Switzerland
     image: /images/zurich.jpg
     image_alt: Our team in the meeting room
   - type: grid_section
