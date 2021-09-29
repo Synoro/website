@@ -27,8 +27,8 @@ export default class Action extends React.Component {
         }
 
         return (
-            <Link href="mailto:contact@synoro.ch" {...attrs} className={classes}>
-                {(style === 'icon') ? (
+            <Link href={withPrefix(url)} {...attrs} className={classes}>
+                                {(style === 'icon') ? (
                     <React.Fragment>
                         <Icon icon={icon} />
                         <span className="screen-reader-text">{label}</span>
