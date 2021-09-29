@@ -16,9 +16,9 @@ sections:
       - title: Dan Acristinii
         image: /images/Dan2.jpg
         subtitle: Founder
-        content: >-
-          Interdum velit euismod in pellentesque massa placerat duis ultricies
-          lacus.
+        content: >
+          Dan is a self-taught coder who enjoys automating processes and
+          containerizing legacy applications.
         actions:
           - label: Twitter
             url: 'https://twitter.com/'
