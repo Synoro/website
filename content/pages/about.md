@@ -27,7 +27,7 @@ sections:
           - label: Linkedin
             url: 'https://www.linkedin.com/in/danacr/'
             style: icon
-            icon: instagram
+            icon: linkedin
             new_window: true
 seo:
   title: About Us
