@@ -28,7 +28,7 @@ sections:
       [Episode 01 -
       GitHub](https://github.com/danacr/Kubernetes-The-Fun-Way/blob/master/01-portable-kubernetes-cluster/)
   - type: image_section
-    image: /images/cluster.gif/images/rancher.png
+    image: /images/rancher.png
     image_alt: Cluster
     width: wide
 seo:
