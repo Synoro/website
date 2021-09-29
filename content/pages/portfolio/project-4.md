@@ -23,7 +23,7 @@ sections:
     width: wide
 seo:
   title: Kubernetes as a Service
-  description: Google Cloud Meetup Zürich
+  description: Virtual Rejekts 2020
   extra:
     - name: 'og:type'
       value: website
