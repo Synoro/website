@@ -17,7 +17,7 @@ sections:
     image_alt: Design Is One 2
     width: wide
 seo:
-  title: Design Is One
+  title: Kubernetes The Fun Way
   description: This is the sample project description
   extra:
     - name: 'og:type'
