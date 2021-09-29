@@ -1,6 +1,6 @@
 ---
 title: The Work
-subtitle: Some of our projects
+subtitle: Some projects
 layout_style: tiles
 seo:
   title: Portfolio
