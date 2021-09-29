@@ -31,6 +31,5 @@ seo:
       value: This is the sample project description
       keyName: property
 
-      relativeUrl: true
 layout: project
 ---
