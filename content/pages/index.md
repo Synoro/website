@@ -20,7 +20,7 @@ sections:
   - type: grid_section
     section_id: clients
     title: Tools we are comfortable using
-    subtitle: A few of the companies we're proud to work with
+    subtitle: to
     col_number: three
     grid_items:
       - image: images/logo-1.svg
