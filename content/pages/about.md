@@ -31,7 +31,7 @@ sections:
             new_window: true
           - label: github
             url: 'https://github.com/danacr'
-            style: button
+            style: icon
             icon: github
             new_window: false
             no_follow: false
