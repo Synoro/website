@@ -30,18 +30,6 @@ sections:
             style: icon
             icon: instagram
             new_window: true
-      - title: Brandon Guidelines
-        image: images/team-5.png
-        subtitle: Graphic Designer
-        content: >-
-          Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa
-          eget.
-        actions:
-          - label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
   - type: cta_section
     section_id: cta
     title: Become a Team Player
