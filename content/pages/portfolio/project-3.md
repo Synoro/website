@@ -7,7 +7,7 @@ thumb_image_alt: Chaos Engineering on Kubernetes
 sections:
   - type: image_section
     image: /images/cloudmeetup.png
-    image_alt: Kubernetes Operator for Drones
+    image_alt: Chaos Engineering on Kubernetes
     width: wide
   - type: text_section
     content: >
