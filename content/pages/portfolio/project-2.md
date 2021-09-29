@@ -3,7 +3,7 @@ title: Kubernetes Operator for Drones using
 subtitle: Google Tech Talk
 date: '2020-02-10'
 thumb_image: images/drones.gif
-thumb_image_alt: Kubernetes The Fun Way
+thumb_image_alt: Kubernetes Operator for Drones using
 sections:
   - type: image_section
     image: images/drones.gif
