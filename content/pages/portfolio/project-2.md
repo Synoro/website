@@ -8,14 +8,14 @@ sections:
   - type: image_section
     image: images/drones.gif
     image_alt: Aimi 1
-    caption: This is the caption of the image
+    caption: Kubernetes Operator for Drones using
     width: wide
   - type: text_section
     content: >-
     The purpose is to create an easy way of explaining Kubernetes operators. (Hence the drones)
   - type: image_section
     image: images/googletech.jpg
-    image_alt: Aimi 2
+    image_alt: Kubernetes Operator for Drones using
     width: wide
 seo:
   title: Aimi
