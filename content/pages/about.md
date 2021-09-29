@@ -24,7 +24,7 @@ sections:
             style: icon
             icon: twitter
             new_window: true
-          - label: Instagram
+          - label: Linkedin
             url: 'https://www.instagram.com/'
             style: icon
             icon: instagram
