@@ -10,10 +10,8 @@ sections:
       scare you?
 
 
-      AIOps, BizDevOps, CloudOps, DevOps, ITOps, NoOps
-
-
-      [Reach out](/contact/) and let's define what's right for your business.
+      AIOps, BizDevOps, CloudOps, DevOps, ITOps, NoOps. [Reach out](/contact/)
+      and let's define what's right for your business.
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
