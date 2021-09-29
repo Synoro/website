@@ -42,7 +42,7 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "Instagram",
+                "label": "GitHub",
                 "url": "https://www.instagram.com/",
                 "style": "icon",
                 "icon": "instagram",
