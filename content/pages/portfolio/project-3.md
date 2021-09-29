@@ -15,7 +15,7 @@ sections:
       (Hence the drones)
   - type: image_section
     image: images/googletech.jpg
-    image_alt: Google Tech Talk
+    image_alt: Chaos Engineering on Kubernetes
     width: wide
 seo:
   title: Chaos Engineering on Kubernetes
