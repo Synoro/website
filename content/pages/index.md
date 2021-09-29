@@ -26,7 +26,7 @@ sections:
       - image: /images/Go-Logo_Blue.png
         image_alt: Go
       - image: /images/py.png
-        image_alt: Logo 2
+        image_alt: Python
       - image: /images/k8s.png
         image_alt: Kubernetes
       - image: images/logo-4.svg
