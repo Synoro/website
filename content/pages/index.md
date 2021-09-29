@@ -4,9 +4,7 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: >-
-      This is an Award Winning Agency Based in San Francisco and Focusing on
-      Digital, Identity, and Print Design.
+    title: We do DevSecOps the right way
     content: >-
       We are a brand and design practice. We work closely with you, your team to
       deliver inspiring work, which enables your organization to grow. [Let's
@@ -81,7 +79,7 @@ sections:
       - author: Desmond Eagle
         avatar: images/desmond-eagle.jpg
         avatar_alt: Desmond Eagle's photo
-        position: CEO and founder, A Company
+        position: 'CEO and founder, A Company'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
@@ -89,7 +87,7 @@ sections:
       - author: Dianne Ameter
         avatar: images/dianne-ameter.jpg
         avatar_alt: Dianne Ameter's photo
-        position: CTO, Another Company
+        position: 'CTO, Another Company'
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
