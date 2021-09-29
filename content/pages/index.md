@@ -24,7 +24,7 @@ sections:
     col_number: three
     grid_items:
       - image: /images/Go-Logo_Blue.png
-        image_alt: Logo 1
+        image_alt: Go
       - image: images/logo-2.svg
         image_alt: Logo 2
       - image: images/logo-3.svg
