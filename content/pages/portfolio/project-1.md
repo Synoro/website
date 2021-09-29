@@ -6,7 +6,7 @@ thumb_image: images/cluster.gif
 thumb_image_alt: Design Is One preview
 sections:
   - type: image_section
-    image: /images/class.png
+    image: /images/rancher.png
     image_alt: Design Is One 1
     caption: This is the caption of the image
     width: wide
