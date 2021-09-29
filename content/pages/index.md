@@ -31,7 +31,7 @@ sections:
         image_alt: Kubernetes
       - image: /images/vsphere.png
         image_alt: vSphere
-      - image: /images/gcp.png
+      - image: /images/google.png
         image_alt: Logo 5
   - type: grid_section
     section_id: services
