@@ -19,7 +19,7 @@ sections:
     width: wide
 seo:
   title: Aimi
-  description: This is the sample project description
+  description: Kubernetes Operator for Drones usingn
   extra:
     - name: 'og:type'
       value: website
