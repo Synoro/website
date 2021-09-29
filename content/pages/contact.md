@@ -23,15 +23,6 @@ sections:
         label: Email
         default_value: Your email address
         is_required: true
-      - input_type: select
-        name: subject
-        label: What services are you looking for?
-        default_value: Please select
-        options:
-          - Branding
-          - Design
-          - Digital
-          - lorem-ipsum
       - input_type: textarea
         name: message
         label: Message
