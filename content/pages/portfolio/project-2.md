@@ -14,7 +14,7 @@ sections:
     The purpose is to create an easy way of explaining Kubernetes operators. (Hence the drones)
   - type: image_section
     image: images/googletech.jpg
-    image_alt: Kubernetes Operator for Drones using
+    image_alt: Kubernetes Operator for Drones
     width: wide
 seo:
   title: Aimi
