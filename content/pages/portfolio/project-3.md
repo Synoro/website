@@ -1,9 +1,9 @@
 ---
-title: Kubernetes Operator for Drones
+title: Chaos Engineering on Kubernetes
 subtitle: Google Tech Talk
 date: '2020-02-10'
 thumb_image: /images/googletech.png
-thumb_image_alt: Kubernetes Operator for Drones
+thumb_image_alt: Chaos Engineering on Kubernetes
 sections:
   - type: image_section
     image: images/drones.gif
