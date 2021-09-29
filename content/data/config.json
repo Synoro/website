@@ -21,11 +21,6 @@
                 "style": "link"
             },
             {
-                "label": "Journal",
-                "url": "/blog/",
-                "style": "link"
-            },
-            {
                 "label": "About",
                 "url": "/about/",
                 "style": "link"
