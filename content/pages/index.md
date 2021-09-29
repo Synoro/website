@@ -10,7 +10,7 @@ sections:
       scare you?
 
 
-      AIOps, BizDevOps, CloudOps, DevOps, ITOps, NoOps. [Reach out](/contact/)
+      AIOps, BizDevOps, CloudOps, DevOps, ITOps, NoOps. [Reach out](mailto:contact@synoro.ch)
       and let's define what's right for your business.
   - type: portfolio_section
     section_id: latest-projects
