@@ -15,7 +15,7 @@ sections:
       environments, such as GKE on preemptible instances.
 
 
-      [Episode 02 -
+      [Episode 04 -
       GitHub](https://github.com/danacr/Kubernetes-The-Fun-Way/tree/master/04-kubernetes-as-a-service)
   - type: image_section
     image: /images/chaos.gif
