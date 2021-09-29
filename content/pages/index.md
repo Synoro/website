@@ -27,6 +27,7 @@ sections:
         image_alt: Go
       - image: /images/py.png
         image_alt: Logo 2
+        title: Python
       - image: images/logo-3.svg
         image_alt: Logo 3
       - image: images/logo-4.svg
