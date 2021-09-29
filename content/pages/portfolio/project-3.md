@@ -29,7 +29,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Chaos Engineering on Kubernetes
+      value: Kubernetes as a Service
       keyName: property
     - name: 'og:description'
       value: Google Cloud Meetup Zürich
