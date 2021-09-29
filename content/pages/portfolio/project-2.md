@@ -1,5 +1,5 @@
 ---
-title: Kubernetes The Fun Way
+title: Kubernetes Operator for Drones using
 subtitle: Rancher Master Class
 date: '2020-03-10'
 thumb_image: images/work-branding-1-thumb.jpg
