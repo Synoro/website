@@ -15,7 +15,7 @@ sections:
     grid_items:
       - title: Dan Acristinii
         image: images/team-3.png
-        subtitle: Creative Producer
+        subtitle: Founder
         content: >-
           Interdum velit euismod in pellentesque massa placerat duis ultricies
           lacus.
