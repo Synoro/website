@@ -20,7 +20,7 @@ sections:
       running ceph on USB flash drives).\n\nDuring the session,
       participants\_got access to an interactive environment where I\_tried to
       debug and fix the crashes of the live application.\n\n[Episode 01 -
-      GitHub](https://github.com/danacr/Kubernetes-The-Fun-Way/blob/master/01-portable-kubernetes-cluster/README.md)\n
+      GitHub](https://github.com/danacr/Kubernetes-The-Fun-Way/blob/master/01-portable-kubernetes-cluster/)\n
   - type: image_section
     image: /images/cluster.gif
     image_alt: Cluster
