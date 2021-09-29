@@ -6,7 +6,7 @@ thumb_image: images/cluster.gif
 thumb_image_alt: Design Is One preview
 sections:
   - type: image_section
-    image: images/work-poster-1.jpg
+    image: /images/class.png
     image_alt: Design Is One 1
     caption: This is the caption of the image
     width: wide
@@ -24,7 +24,6 @@ sections:
     image: images/work-poster-2.jpg
     image_alt: Design Is One 2
     width: wide
-
 seo:
   title: Design Is One
   description: This is the sample project description
