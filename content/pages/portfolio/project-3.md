@@ -28,7 +28,7 @@ seo:
       value: Chaos Engineering on Kubernetes
       keyName: property
     - name: 'og:description'
-      value: Google Tech Talk
+      value: Chaos Engineering on Kubernetes
       keyName: property
 layout: project
 ---
