@@ -30,7 +30,7 @@ sections:
       - image: /images/k8s.png
         image_alt: Kubernetes
       - image: /images/aws.png
-        image_alt: vSphere
+        image_alt: aws
       - image: /images/google.png
         image_alt: gcp
       - image_alt: lorem-ipsum
