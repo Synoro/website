@@ -27,9 +27,5 @@ seo:
     - name: 'og:title'
       value: Design Is One
       keyName: property
-    - name: 'og:description'
-      value: This is the sample project description
-      keyName: property
-
 layout: project
 ---
