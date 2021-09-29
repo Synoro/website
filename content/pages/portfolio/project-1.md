@@ -24,12 +24,7 @@ sections:
     image: images/work-poster-2.jpg
     image_alt: Design Is One 2
     width: wide
-  - type: text_section
-    content: >-
-      Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-      massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-      placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus.
-      Aliquam lobortis faucibus blandit ac phasellus.
+
 
 seo:
   title: Design Is One
