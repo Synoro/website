@@ -4,7 +4,7 @@ hide_title: false
 sections:
   - type: form_section
     section_id: contact-form
-    content: |+
+    content: |
 
 
 
@@ -12,7 +12,6 @@ sections:
       Let’s build something great together.
 
       Complete the contact form or send an email at <contact@synoro.ch>.
-
     form_id: contactForm
     form_action: /thank-you
     form_fields:
