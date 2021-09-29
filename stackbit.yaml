@@ -567,51 +567,51 @@ models:
           type: model
           models:
             - action
-  testimonials_section:
-    type: object
-    label: Testimonials Section
-    extends:
-      - section
-    fields:
-      - type: string
-        name: subtitle
-        label: Subtitle
-        description: The subtitle of the section
-      - type: list
-        name: testimonials
-        label: Testimonials
-        items:
-          type: model
-          models:
-            - testimonial
-  testimonial:
-    type: object
-    label: Testimonial
-    labelField: author
-    fields:
-      - type: string
-        name: author
-        label: Author
-        description: The author of the testimonial
-        required: true
-      - type: string
-        name: position
-        label: Author position
-        description: The position of the testimonial author
-        required: true
-      - type: image
-        name: avatar
-        label: Author image
-        description: The image of the testimonial author
-      - type: string
-        name: avatar_alt
-        label: Author image alt text
-        description: The alt text of the testimonial author image
-      - type: string
-        name: content
-        label: Content
-        description: The text content of the testimonial
-        required: true
+  # testimonials_section:
+  #   type: object
+  #   label: Testimonials Section
+  #   extends:
+  #     - section
+  #   fields:
+  #     - type: string
+  #       name: subtitle
+  #       label: Subtitle
+  #       description: The subtitle of the section
+  #     - type: list
+  #       name: testimonials
+  #       label: Testimonials
+  #       items:
+  #         type: model
+  #         models:
+  #           - testimonial
+  # testimonial:
+  #   type: object
+  #   label: Testimonial
+  #   labelField: author
+  #   fields:
+  #     - type: string
+  #       name: author
+  #       label: Author
+  #       description: The author of the testimonial
+  #       required: true
+  #     - type: string
+  #       name: position
+  #       label: Author position
+  #       description: The position of the testimonial author
+  #       required: true
+  #     - type: image
+  #       name: avatar
+  #       label: Author image
+  #       description: The image of the testimonial author
+  #     - type: string
+  #       name: avatar_alt
+  #       label: Author image alt text
+  #       description: The alt text of the testimonial author image
+  #     - type: string
+  #       name: content
+  #       label: Content
+  #       description: The text content of the testimonial
+  #       required: true
   form_section:
     type: object
     label: Form Section
