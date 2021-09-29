@@ -20,7 +20,7 @@ sections:
           containerizing legacy applications.
         actions:
           - label: Twitter
-            url: 'https://twitter.com/'
+            url: 'https://twitter.com/danacristinii'
             style: icon
             icon: twitter
             new_window: true
