@@ -14,7 +14,7 @@ sections:
       The purpose is to create an easy way of explaining Kubernetes operators.
       (Hence the drones)
   - type: image_section
-    image: images/googletech.jpg
+    image: /images/chaos.gif
     image_alt: Chaos Engineering on Kubernetes
     width: wide
 seo:
