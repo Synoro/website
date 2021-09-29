@@ -45,8 +45,6 @@ sections:
       - title: Development
         image: images/service-1.svg
         content: |
-
-
           *   Application modernization
           *   Infrastructure as Code
       - title: Trainings
