@@ -32,7 +32,7 @@ sections:
       - image: /images/vsphere.png
         image_alt: vSphere
       - image: /images/google.png
-        image_alt: Logo 5
+        image_alt: gcp
   - type: grid_section
     section_id: services
     title: Services
