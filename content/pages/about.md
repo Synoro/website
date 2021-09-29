@@ -13,7 +13,7 @@ sections:
     subtitle: An optional subtitle of the section
     col_number: three
     grid_items:
-      - title: Gordon Norman
+      - title: Dan Acristinii
         image: images/team-3.png
         subtitle: Creative Producer
         content: >-
