@@ -33,7 +33,7 @@ sections:
         image_alt: aws
       - image: /images/google.png
         image_alt: gcp
-      - image_alt: lorem-ipsum
+      - image_alt: azure
         actions: []
         image: /images/azure.png
   - type: grid_section
