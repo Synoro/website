@@ -39,7 +39,7 @@ sections:
     subtitle: What we do
     col_number: three
     grid_items:
-      - title: Dev
+      - title: Consultancy
         image: images/service-1.svg
         content: |-
           - Research and insight
