@@ -11,15 +11,7 @@ sections:
     caption: This is the caption of the image
     width: wide
   - type: text_section
-    content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
+    content: "K3s runs on many devices - what happens if you have the perfect hardware to run it on?\n\nSee how easy it is to build\_a portable Kubernetes cluster with a Clusterboard.\n\nI walked the participants\_through the requirements of setting up such a cluster and explained the advantages and disadvantages of running production workloads on Arm devices. (including running ceph on USB flash drives).\n\nDuring the session, participants\_got access to an interactive environment where I\_tried to debug and fix the crashes of the live application.\n\n[Episode 01 - GitHub](https://github.com/danacr/Kubernetes-The-Fun-Way/blob/master/01-portable-kubernetes-cluster/README.md)\n"
   - type: image_section
     image: /images/cluster.gif
     image_alt: Design Is One 2
