@@ -27,7 +27,7 @@ seo:
       value: Kubernetes Operator for Drones
       keyName: property
     - name: 'og:description'
-      value: This is the sample project description
+      value: Kubernetes Operator for Drones
       keyName: property
 layout: project
 ---
