@@ -1,13 +1,13 @@
 ---
-title: Chaos Engineering on Kubernetes
+title: Kubernetes as a Service
 subtitle: Google Cloud Meetup Zürich
-date: '2020-02-10'
+date: '2020-03-05'
 thumb_image: /images/googletech.png
-thumb_image_alt: Chaos Engineering on Kubernetes
+thumb_image_alt: Kubernetes as a Service
 sections:
   - type: image_section
     image: /images/cloudmeetup.png
-    image_alt: Kubernetes Operator for Drones
+    image_alt: Kubernetes as a Service
     width: wide
   - type: text_section
     content: >
@@ -19,17 +19,17 @@ sections:
       GitHub](https://github.com/danacr/Kubernetes-The-Fun-Way/tree/master/02-kubernetes-operator-for-drones)
   - type: image_section
     image: /images/chaos.gif
-    image_alt: Chaos Engineering on Kubernetes
+    image_alt: Kubernetes as a Service
     width: wide
 seo:
-  title: Chaos Engineering on Kubernetes
+  title: Kubernetes as a Service
   description: Google Cloud Meetup Zürich
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Chaos Engineering on Kubernetes
+      value: Kubernetes as a Service
       keyName: property
     - name: 'og:description'
       value: Google Cloud Meetup Zürich
