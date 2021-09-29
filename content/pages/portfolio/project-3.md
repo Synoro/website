@@ -18,7 +18,7 @@ sections:
     image_alt: Google Tech Talk
     width: wide
 seo:
-  title: Kubernetes Operator for Drones
+  title: Chaos Engineering on Kubernetes
   description: Kubernetes Operator for Drones
   extra:
     - name: 'og:type'
