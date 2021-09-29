@@ -70,27 +70,27 @@ sections:
           - Communication design
           - Social media
           - Product design
-  - type: testimonials_section
-    section_id: testimonials
-    title: Testimonials
-    subtitle: What our Clients say
-    col_number: three
-    testimonials:
-      - author: Desmond Eagle
-        avatar: images/desmond-eagle.jpg
-        avatar_alt: Desmond Eagle's photo
-        position: 'CEO and founder, A Company'
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla.
-      - author: Dianne Ameter
-        avatar: images/dianne-ameter.jpg
-        avatar_alt: Dianne Ameter's photo
-        position: 'CTO, Another Company'
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+#   - type: testimonials_section
+#     section_id: testimonials
+#     title: Testimonials
+#     subtitle: What our Clients say
+#     col_number: three
+#     testimonials:
+#       - author: Desmond Eagle
+#         avatar: images/desmond-eagle.jpg
+#         avatar_alt: Desmond Eagle's photo
+#         position: 'CEO and founder, A Company'
+#         content: >-
+#           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+#           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
+#           fringilla.
+#       - author: Dianne Ameter
+#         avatar: images/dianne-ameter.jpg
+#         avatar_alt: Dianne Ameter's photo
+#         position: 'CTO, Another Company'
+#         content: >-
+#           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
+#           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
