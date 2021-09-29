@@ -34,7 +34,6 @@ sections:
       - image: /images/google.png
         image_alt: gcp
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
