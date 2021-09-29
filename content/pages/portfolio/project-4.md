@@ -12,7 +12,7 @@ sections:
   - type: text_section
     content: "The purpose of this repository is to provision development clusters in a really simple and fast way. Result of\_[this](https://twitter.com/errordeveloper/status/1240262848351211520)\_twitter thread.\n\n[Episode 04 - GitHub](https://github.com/danacr/Kubernetes-The-Fun-Way/tree/master/04-kubernetes-as-a-service)\n"
   - type: image_section
-    image: /images/chaos.gif
+    image: /images/twitter.png
     image_alt: Kubernetes as a Service
     width: wide
 seo:
