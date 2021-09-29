@@ -42,7 +42,8 @@ sections:
       - title: Development
         image: images/service-1.svg
         content: |
-          *   Golang and Python operations improvements
+
+
           *   Application modernization
           *   Infrastructure as Code
       - title: Trainings
