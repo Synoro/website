@@ -7,7 +7,7 @@ thumb_image_alt: Design Is One preview
 sections:
   - type: image_section
     image: /images/rancher.png
-    image_alt: Design Is One 1
+    image_alt: Rancher Master Class
     caption: This is the caption of the image
     width: wide
   - type: text_section
