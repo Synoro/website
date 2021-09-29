@@ -30,6 +30,7 @@ sections:
         title: Python
       - image: images/logo-3.svg
         image_alt: Logo 3
+        title: Kubernetes
       - image: images/logo-4.svg
         image_alt: Logo 4
       - image: images/logo-5.svg
