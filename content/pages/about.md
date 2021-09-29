@@ -25,7 +25,7 @@ sections:
             icon: twitter
             new_window: true
           - label: Linkedin
-            url: 'https://www.instagram.com/'
+            url: 'https://www.linkedin.com/in/danacr/'
             style: icon
             icon: instagram
             new_window: true
