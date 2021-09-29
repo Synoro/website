@@ -30,10 +30,7 @@ seo:
     - name: 'og:description'
       value: This is the sample project description
       keyName: property
-    - name: 'og:image'
-      value: images/work-poster-1.jpg
-      keyName: property
-      relativeUrl: true
+
       relativeUrl: true
 layout: project
 ---
