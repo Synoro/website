@@ -19,7 +19,7 @@ sections:
     width: wide
 seo:
   title: Chaos Engineering on Kubernetes
-  description: Chaos Engineering on Kubernetes
+  description: Google Cloud Meetup Zürich
   extra:
     - name: 'og:type'
       value: website
