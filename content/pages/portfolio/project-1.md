@@ -25,7 +25,6 @@ sections:
     image_alt: Design Is One 2
     width: wide
 
-
 seo:
   title: Design Is One
   description: This is the sample project description
