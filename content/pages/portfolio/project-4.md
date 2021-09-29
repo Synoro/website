@@ -2,7 +2,7 @@
 title: Kubernetes as a Service
 subtitle: Virtual Rejekts 2020
 date: '2020-03-05'
-thumb_image: /images/googletech.png
+thumb_image: /images/kaas.png
 thumb_image_alt: Kubernetes as a Service
 sections:
   - type: image_section
