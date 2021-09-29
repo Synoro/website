@@ -14,7 +14,7 @@ sections:
     col_number: three
     grid_items:
       - title: Dan Acristinii
-        image: images/team-3.png
+        image: /images/Dan2.jpg
         subtitle: Founder
         content: >-
           Interdum velit euismod in pellentesque massa placerat duis ultricies
