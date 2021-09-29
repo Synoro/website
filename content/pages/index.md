@@ -10,7 +10,7 @@ sections:
       scare you?
 
 
-      AIOps, BizDevOps, CloudOps, DevOps, ITOps, NoOps?
+      AIOps, BizDevOps, CloudOps, DevOps, ITOps, NoOps
 
 
       [Reach out](/contact/) and let's define what's right for your business.
