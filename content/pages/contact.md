@@ -31,6 +31,7 @@ sections:
           - Branding
           - Design
           - Digital
+          - lorem-ipsum
       - input_type: textarea
         name: message
         label: Message
