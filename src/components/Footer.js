@@ -19,7 +19,7 @@ export default class Footer extends React.Component {
                 <div className="container container--lg">
                     <div className="site-footer__inside">
                         <div className="site-footer__info">
-                            {copyright && <span className="site-footer__copyright">{htmlToReact(copyright)}</span>}
+                            {copyright && <span className="site-footer__copyright">{new Date().getFullYear()}</span>}
                             {_.map(links, (action, index) => (
                                 <ActionLink key={index} action={action} />
                             ))}
