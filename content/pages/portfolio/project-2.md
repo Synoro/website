@@ -18,7 +18,7 @@ sections:
     width: wide
 seo:
   title: Aimi
-  description: Kubernetes Operator for Drones usingn
+  description: Kubernetes Operator for Drones
   extra:
     - name: 'og:type'
       value: website
