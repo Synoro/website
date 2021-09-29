@@ -16,7 +16,7 @@ sections:
 
 
       [Episode 03 -
-      GitHub](https://github.com/danacr/Kubernetes-The-Fun-Way/tree/master/02-kubernetes-operator-for-drones)
+      GitHub](https://github.com/danacr/Kubernetes-The-Fun-Way/tree/master/03-chaos-engineering-on-kubernetes)
   - type: image_section
     image: /images/chaos.gif
     image_alt: Chaos Engineering on Kubernetes
