@@ -22,7 +22,7 @@ sections:
     view_all_url: portfolio
   - type: grid_section
     section_id: clients
-    title: Tools we are comfortable using
+    title: Tools and frameworks
     subtitle: to name a few
     col_number: three
     grid_items:
