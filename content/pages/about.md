@@ -32,7 +32,7 @@ sections:
           - label: github
             url: 'https://github.com/danacr'
             style: link
-            icon: dribbble
+            icon: github
             new_window: false
             no_follow: false
 seo:
