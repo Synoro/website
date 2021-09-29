@@ -13,18 +13,6 @@ sections:
     subtitle: An optional subtitle of the section
     col_number: three
     grid_items:
-      - title: Hilary Ouse
-        image: images/team-2.png
-        subtitle: 'Co-Founder, Creative Director'
-        content: >-
-          Dictum fusce ut placerat orci nulla pellentesque. Ipsum faucibus vitae
-          aliquet nec ullamcorper sit.
-        actions:
-          - label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
       - title: Gordon Norman
         image: images/team-3.png
         subtitle: Creative Producer
