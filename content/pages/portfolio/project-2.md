@@ -8,7 +8,6 @@ sections:
   - type: image_section
     image: images/drones.gif
     image_alt: Kubernetes Operator for Drones using
-    caption: Kubernetes Operator for Drones using
     width: wide
   - type: text_section
     content: >-
