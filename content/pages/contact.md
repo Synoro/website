@@ -8,7 +8,7 @@ sections:
       Let’s build something great together.
 
 
-      Complete the contact form or send an email at <email@example.com>.
+      Complete the contact form or send an email at <contact@example.com>.
 
     form_id: contactForm
     form_action: /thank-you
