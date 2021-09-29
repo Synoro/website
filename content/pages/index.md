@@ -35,6 +35,7 @@ sections:
         image_alt: gcp
       - image_alt: lorem-ipsum
         actions: []
+        image: /images/azure.png
   - type: grid_section
     section_id: services
     title: Services
