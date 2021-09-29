@@ -6,7 +6,6 @@
     "base_font": "fraunces",
     "header": {
         "title": "Synoro",
-        "logo": "images/logo.svg",
         "logo_alt": "Agency logo",
         "has_nav": true,
         "nav_links": [
