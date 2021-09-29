@@ -32,7 +32,7 @@ seo:
       value: Kubernetes as a Service
       keyName: property
     - name: 'og:description'
-      value: Google Cloud Meetup Zürich
+      value: Virtual Rejekts 2020
       keyName: property
 layout: project
 ---
