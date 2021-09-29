@@ -17,7 +17,7 @@ sections:
     image_alt: Kubernetes Operator for Drones
     width: wide
 seo:
-  title: Aimi
+  title: Kubernetes Operator for Drones
   description: Kubernetes Operator for Drones
   extra:
     - name: 'og:type'
