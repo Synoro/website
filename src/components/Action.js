@@ -27,7 +27,7 @@ export default class Action extends React.Component {
         }
 
         return (
-            <Link <a href="mailto:contact@synoro.ch">contact@synoro.ch</a> {...attrs} className={classes}>
+            <Link href="mailto:contact@synoro.ch">contact@synoro.ch</a> {...attrs} className={classes}>
                 {(style === 'icon') ? (
                     <React.Fragment>
                         <Icon icon={icon} />
