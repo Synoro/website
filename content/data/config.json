@@ -44,7 +44,7 @@
             {
                 "label": "GitHub",
                 "url": "https://github.com/Synoro/website",
-                "style": "button",
+                "style": "icon",
                 "icon": "github",
                 "new_window": true
             },
