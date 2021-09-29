@@ -2,7 +2,7 @@
 title: Chaos Engineering on Kubernetes
 subtitle: Google Cloud Meetup Zürich
 date: '2020-03-05'
-thumb_image: /images/googletech.png
+thumb_image: /images/cloudmeetup.png
 thumb_image_alt: Chaos Engineering on Kubernetes
 sections:
   - type: image_section
