@@ -1,6 +1,6 @@
 ---
 title: Our Work
-subtitle: This is an optional subtitle for the portfolio page
+subtitle: Some of our projects
 layout_style: mosaic
 seo:
   title: Portfolio
