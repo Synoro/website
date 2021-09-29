@@ -29,7 +29,7 @@ sections:
         image_alt: Logo 2
         title: Python
       - image: /images/k8s.png
-        image_alt: Logo 3
+        image_alt: Kubernetes
       - image: images/logo-4.svg
         image_alt: Logo 4
       - image: images/logo-5.svg
