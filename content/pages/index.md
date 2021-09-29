@@ -33,8 +33,7 @@ sections:
         image_alt: vSphere
       - image: /images/google.png
         image_alt: gcp
-      - title: lorem-ipsum
-        image_alt: lorem-ipsum
+      - image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
