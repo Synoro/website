@@ -1,5 +1,5 @@
 ---
-title: Kubernetes Operator for Drones using
+title: Kubernetes Operator for Drones
 subtitle: Google Tech Talk
 date: '2020-02-10'
 thumb_image: images/drones.gif
