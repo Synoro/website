@@ -25,7 +25,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Kubernetes Operator for Drones
+      value: Chaos Engineering on Kubernetes
       keyName: property
     - name: 'og:description'
       value: Google Tech Talk
