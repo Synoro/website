@@ -19,7 +19,7 @@ sections:
     width: wide
 seo:
   title: Kubernetes The Fun Way
-  description: This is the sample project description
+  description: Rancher Master Class
   extra:
     - name: 'og:type'
       value: website
