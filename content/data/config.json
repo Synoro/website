@@ -23,11 +23,6 @@
                 "label": "About",
                 "url": "/about/",
                 "style": "link"
-            },
-            {
-                "label": "Contact",
-                "url": "mailto:contact@synoro.ch",
-                "style": "button"
             }
         ]
     },

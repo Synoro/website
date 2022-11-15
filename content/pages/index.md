@@ -65,11 +65,11 @@ sections:
     title: Let’s Work Together!
     content: >
       Say hello at <contact@synoro.ch>
-    actions:
-      - label: Let's start
-        url: 'mailto:contact@synoro.ch'
-        style: button
-    image: images/cta.svg
+    # actions:
+    #   - label: Let's start
+    #     url: 'mailto:contact@synoro.ch'
+    #     style: button
+    image: images/sapro.png
     image_alt: Illustration
     bg_color: light
 layout: advanced
