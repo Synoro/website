@@ -100,3 +100,5 @@ example by installing and running `http-server`:
 
     npm install http-server -g
     http-server out
+
+> Note: Make sure to set `NETLIFY_NEXT_PLUGIN_SKIP=true`, https://stackoverflow.com/questions/72724257/i-cannot-deploy-next-js-to-netlify-deploy-failed-because-of-a-mistake-in-netli
