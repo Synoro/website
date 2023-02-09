@@ -21,25 +21,6 @@ sections:
     view_all_label: View All
     view_all_url: portfolio
   - type: grid_section
-    section_id: clients
-    title: Tools and frameworks
-    subtitle: to name a few
-    col_number: three
-    grid_items:
-      - image: /images/Go-Logo_Blue.png
-        image_alt: Go
-      - image: /images/py.png
-        image_alt: Python
-      - image: /images/k8s.png
-        image_alt: Kubernetes
-      - image: /images/aws.png
-        image_alt: aws
-      - image: /images/google.png
-        image_alt: gcp
-      - image_alt: azure
-        actions: []
-        image: /images/azure.png
-  - type: grid_section
     section_id: services
     title: Services
     subtitle: that can help
@@ -60,6 +41,25 @@ sections:
         content: |
           *   Solution Architecture
           *   Security Assessments
+  - type: grid_section
+    section_id: clients
+    title: Tools and frameworks
+    subtitle: to name a few
+    col_number: three
+    grid_items:
+      - image: /images/Go-Logo_Blue.png
+        image_alt: Go
+      - image: /images/py.png
+        image_alt: Python
+      - image: /images/k8s.png
+        image_alt: Kubernetes
+      - image: /images/aws.png
+        image_alt: aws
+      - image: /images/google.png
+        image_alt: gcp
+      - image_alt: azure
+        actions: []
+        image: /images/azure.png
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
