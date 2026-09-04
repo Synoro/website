@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 80" role="img" aria-labelledby="title desc">
+  <title id="title">Synoro</title>
+  <desc id="desc">A segmented boundary crossed by a threshold, followed by the Synoro wordmark.</desc>
+  <g fill="none" stroke="#e60046" stroke-width="5.5" stroke-linejoin="miter">
+    <path d="M31 12H21L13 20V60L21 68H31M49 12H59L67 20V29M67 51V60L59 68H49"/>
+  </g>
+  <rect x="61" y="34" width="13" height="13" fill="#ff2d68"/>
+  <text x="94" y="57" fill="#f4f2f3" font-family="Manrope, Arial, sans-serif" font-size="47" font-weight="600" letter-spacing="-2">synoro</text>
+</svg>
